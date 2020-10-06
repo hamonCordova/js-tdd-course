@@ -24,7 +24,7 @@
   "homepage": "https://github.com/hamonCordova/js-tdd-course#readme",
   "husky": {
     "hooks": {
-      "pre-push": "npm run lint",
+      "pre-push": "npm run lint"
     }
   },
   "devDependencies": {
